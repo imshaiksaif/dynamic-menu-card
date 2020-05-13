@@ -2,8 +2,10 @@
   "name": "cotd",
   "version": "0.0.3",
   "private": true,
+  "homepage": "https://imshaiksaif.github.io/dynamic-menu-card",
   "devDependencies": {
     "concurrently": "4.1.0",
+    "gh-pages": "^2.2.0",
     "react-scripts": "3.4.1"
   },
   "dependencies": {
@@ -19,6 +21,8 @@
     "stylus": "0.54.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "react-scripts start",
     "start": "react-scripts start",
     "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"",

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dynamic-menu-card/static/css/main.e16bb295.chunk.css",
+    "main.js": "/dynamic-menu-card/static/js/main.9c6022bc.chunk.js",
+    "main.js.map": "/dynamic-menu-card/static/js/main.9c6022bc.chunk.js.map",
+    "runtime-main.js": "/dynamic-menu-card/static/js/runtime-main.5e43bfd0.js",
+    "runtime-main.js.map": "/dynamic-menu-card/static/js/runtime-main.5e43bfd0.js.map",
+    "static/js/2.2f2f71bd.chunk.js": "/dynamic-menu-card/static/js/2.2f2f71bd.chunk.js",
+    "static/js/2.2f2f71bd.chunk.js.map": "/dynamic-menu-card/static/js/2.2f2f71bd.chunk.js.map",
+    "index.html": "/dynamic-menu-card/index.html",
+    "precache-manifest.aee52cefd0663062aec829cc2fb6decb.js": "/dynamic-menu-card/precache-manifest.aee52cefd0663062aec829cc2fb6decb.js",
+    "service-worker.js": "/dynamic-menu-card/service-worker.js",
+    "static/css/main.e16bb295.chunk.css.map": "/dynamic-menu-card/static/css/main.e16bb295.chunk.css.map",
+    "static/js/2.2f2f71bd.chunk.js.LICENSE.txt": "/dynamic-menu-card/static/js/2.2f2f71bd.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/dynamic-menu-card/static/media/haymaker-webfont.e9535f20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e43bfd0.js",
+    "static/js/2.2f2f71bd.chunk.js",
+    "static/css/main.e16bb295.chunk.css",
+    "static/js/main.9c6022bc.chunk.js"
+  ]
+}
